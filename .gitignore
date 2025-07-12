@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+.venv/
+
+# Ignore environment variables
+.env
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Streamlit logs and artifacts
+.streamlit/
+
+# OS/system files
+.DS_Store
