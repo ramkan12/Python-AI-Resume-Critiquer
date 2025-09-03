@@ -8,5 +8,6 @@ dependencies = [
     "openai>=1.93.3",
     "pypdf2>=3.0.1",
     "python-dotenv>=1.1.1",
+    "reportlab>=4.4.3",
     "streamlit>=1.46.1",
 ]
